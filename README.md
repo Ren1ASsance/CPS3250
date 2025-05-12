@@ -170,9 +170,15 @@ Contributions to this project are welcome.
 This project is licensed under the [MIT License](https://rem.mit-license.org).
 
 ## Contact
-For any queries, please contact [Kaiyu Liu](liukai@kean.edu).
+For any queries, please contact our team.
 
 ## Acknowledgments
-- Thanks to Dr. Rashid for instructions and to everyone who contributed to the development and testing of this application. 
+- Thanks to Dr. Rashid for instructions and to everyone who contributed to the development and testing of this application.
+
+## Team
+- Liu Kaiyu
+- Yu Fan
+- Hu Yiyang
+- Xia Lei
 
 ---# CPS3250
